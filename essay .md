@@ -3,7 +3,7 @@
 <param ve-config 
        title="Queen Elizabeth"
        author="Ester Swanström"
-       layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/La_batalla_de_Gravelinas%2C_por_Nicholas_Hilliard.jpg"> >
+       layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/La_batalla_de_Gravelinas%2C_por_Nicholas_Hilliard.jpg">
        
 <param ve-entity eid="Q648432" aliases="Tilbury">
 
