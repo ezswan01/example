@@ -30,19 +30,6 @@ In The Coronation Portrait of Elizabeth I, Queen Elizabeth I is holding an orb a
 
 To summarise, Elizabeth’s poetry both reflects her inner turmoil as a young female monarch and serves as a tool to construct a powerful image to both her subjects and her enemies. In her speeches, Elizabeth utilises different rhetoric tools and gender norms and stereotypes to address her gender yet surpasses the limitations of it. The different tactics used in her speeches legitimise her reign as a female monarch by both addressing her female gender, and adopting masculine traits to justify her rule. In different portraits of Elizabeth I, she is depicted as unaging to further her virgin image. She is depicted in heavily ornamented garb with symbols of power and royalty accompanying her image, such as crowns, sceptres and orbs. To conclude, Elizabeth I uses a variety of tactics to self-legitimise her rule as a female monarch during a time when women were generally not allowed to occupy positions of power.  
 
-References:
-
-Attributed to William Segar and Nicholas Hilliard, Ermine Portrait, c. 1585. https://learn.canterbury.ac.uk/bbcswebdav/pid-3135703-dt-content-rid-4516823_1/courses/A21U14576/Module%20Materials/Elizabeth%20I%27s%20Writings%20Portraits%20of%20Elizabeth%20Tudor%20%27The%20Ermine%20Portrait%27%20%281585%29/Nicholas%20Hilliard%2C%20%27The%20Ermine%20Portrait%27%20%281585%29.jpg Accessed. 6.1.2022
-Elizabeth I, “On Monsieur’s Departure”, The Norton Anthology of English Literature, Major Authors: Vol 2. 10th edition, W.W Norton & Company, 2019, pp. 405
-Elizabeth I, “The doubt of future foes”, The Norton Anthology of English Literature, Major Authors: Vol 2. 10th edition, W.W Norton & Company, 2019, pp. 404-405
-
-Elizabeth I, “The ‘Golden Speech’”,  The Norton Anthology of English Literature, Major Authors: Vol 2. 10th edition, W.W Norton & Company, 2019, pp. 408-410
- Elizabeth I, “Speech to the Troops at Tilbury”, The Norton Anthology of English Literature, Major Authors: Vol 2. 10th edition, W.W Norton & Company, 2019, pp. 407-408
-Green, Janet M. “‘I My Self’: Queen Elizabeth I’s Oration at Tilbury Camp.” The Sixteenth Century Journal, vol. 28, no. 2, The Sixteenth Century Journal, 1997, pp. 421–45, https://doi.org/10.2307/2543451. Accessed: 6.1.2022
-King, John N. “Queen Elizabeth I: Representations of the Virgin Queen.” Renaissance Quarterly, vol. 43, no. 1, [The University of Chicago Press, Renaissance Society of America], 1990, pp. 30–74, https://doi.org/10.2307/2861792. Accessed: 6.1.2022
-Rose, Mary Beth. “The Gendering of Authority in the Public Speeches of Elizabeth I.” PMLA, vol. 115, no. 5, Modern Language Association, 2000, pp. 1077–82, https://doi.org/10.2307/463274. Accessed: 6.1.2022
-Unknown English artist. The Armada Portrait. 1588, Woburn Abbey. Oil on oak panel.https://learn.canterbury.ac.uk/bbcswebdav/pid-3135707-dt-content-rid-4516815_1/courses/A21U14576/Module%20Materials/Elizabeth%20I%27s%20Writings%20Portraits%20of%20Elizabeth%20Tudor%20%27The%20Armada%20Portrait%27/Elizabeth%20I%20Aramda%20Potrait%20%20%28c.%201588%29.jpg Accessed: 6.1.2022
-Unknown English artist. The Coronation Portrait. c. 1600. Oil on panel. https://learn.canterbury.ac.uk/bbcswebdav/pid-3135690-dt-content-rid-4516841_1/courses/A21U14576/Module%20Materials/Elizabeth%20I%27s%20Writings%20Portraits%20of%20Elizabeth%20Tudor%20The%20Coronation%20Portrait/Elizabeth%20I%20%28c.%201599%29.jpg Accessed: 6.1.2022
 
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
