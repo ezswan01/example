@@ -31,36 +31,6 @@ In The Coronation Portrait of Elizabeth I, Queen Elizabeth I is holding an orb a
 To summarise, Elizabeth’s poetry both reflects her inner turmoil as a young female monarch and serves as a tool to construct a powerful image to both her subjects and her enemies. In her speeches, Elizabeth utilises different rhetoric tools and gender norms and stereotypes to address her gender yet surpasses the limitations of it. The different tactics used in her speeches legitimise her reign as a female monarch by both addressing her female gender, and adopting masculine traits to justify her rule. In different portraits of Elizabeth I, she is depicted as unaging to further her virgin image. She is depicted in heavily ornamented garb with symbols of power and royalty accompanying her image, such as crowns, sceptres and orbs. To conclude, Elizabeth I uses a variety of tactics to self-legitimise her rule as a female monarch during a time when women were generally not allowed to occupy positions of power.  
 
 
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
 
-## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
-
-## Map
-
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
-# References
-
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
