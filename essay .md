@@ -5,13 +5,10 @@
        author="Ester Swanström"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
+       
+<param ve-entity eid="Q648432" aliases="Tilbury">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q648432">
-
-# Sample visual essay
+# 
 
 In this essay I will critically consider the ways in which Queen Elizabeth I asserted a powerful identity as a female monarch. I will overview the different ways in which she justified and self-legitimised her reign despite her gender and how she used gender stereotypes and expectations to her advantage. I will analyse different texts written by her, such as her poetry and speeches. Additionally, I will analyse some paintings of her. Finally, I will conclude my essay. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/eb/Elizabeth_I_in_coronation_robes.jpg" label="National Portrait Gallery, Public domain, via Wikimedia Commons">
